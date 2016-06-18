@@ -5,6 +5,6 @@
     "default": "url.js"
   },
   "devDependencies": {
-    "systemjs-builder": "^0.15.23"
+    "systemjs-builder": "systemjs/builder#master"
   }
 }
