@@ -5,6 +5,7 @@
     "default": "url.js"
   },
   "devDependencies": {
-    "systemjs-builder": "systemjs/builder#master"
+    "systemjs-builder": "systemjs/builder#master",
+    "systemjs-plugin-babel": "0.0.12"
   }
 }
