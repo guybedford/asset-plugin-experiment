@@ -1,0 +1,1 @@
+export default Math.rand() > 0.5 ? 'en-US' : 'en-UK';

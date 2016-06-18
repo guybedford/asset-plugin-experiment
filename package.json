@@ -1,0 +1,10 @@
+{
+  "name": "systemjs-asset",
+  "main": {
+    "build": "url-builder.js",
+    "default": "url.js"
+  },
+  "devDependencies": {
+    "systemjs-builder": "^0.15.23"
+  }
+}
